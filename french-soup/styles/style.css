@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+* {
+  width: 700px;
+}
+
+html {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px
+}
+
+h1 {
+  font-size: 3rem;
+  color: white;
+  font-weight: 100;
+  background-image: url(../images/soup.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  height: 400px;
+  width: 700px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  font-size: 0.9rem;
+  width: 600px;
+  margin: auto;
+}
+
+img {
+  width: 250px;
+  margin: 20px auto;
+  display: flex;
+}
+
+hr {
+  width: 600px;
+}
+
+h3 {
+  font-size: 1rem;
+  margin-left: 50px;
+}
+
+ul {
+  font-size: 0.8rem;
+  list-style-type: none;
+}
+
+.margem {
+  margin-left: 10px;
+}
+
+li {
+  width: 600px;
+}
+
+#margem {
+  font-size: 0.8rem;
+  margin-left: 30px;
+  margin-bottom: 300px;
+}
